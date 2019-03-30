@@ -1,10 +1,8 @@
 # ExToolset
 
-## Running AIDD
+## Running ExToolset
 
-To Run AIDD for RNAseq transcriptome diversity discovery copy and paste the following command and follow the on screen prompts.  For detailed instructions as well as ways to edit the script for even more options see the manual.
-
-Step 1: Make sure AIDD virutalbox is up an running following the steps outlined above.
+Step 1: Make sure AIDD virutalbox is up an running following the steps outlined in AIDD.
 
 Step 2: Follow the instructions on the desktop.
 * 1.) Open PHENO_DATA.csv on the desktop and fill out for your experiment.
